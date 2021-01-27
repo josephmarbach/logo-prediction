@@ -1,0 +1,47 @@
+{
+  "id": "614b1980-3a39-11ea-a18a-a7c9d91d51da",
+  "code": 200,
+  "project_id": 14513,
+  "user_id": 490,
+  "created_on": "2020-01-18T21:27:54.474Z",
+  "status": [
+    {
+      "status": {
+        "code": "0",
+        "message": "SUCCESS"
+      },
+      "response": {
+        "input": {
+          "model": "logo4043_res152_faster_rcnn_iter_202601",
+          "model_version": 53,
+          "model_type": "DETECTION",
+          "inference_client_version": "3.5.60",
+          "hash": "b77a39809868e97f571ae953a4b5f084",
+          "media": {
+            "url": null,
+            "filename": null,
+            "type": "PHOTO",
+            "mimetype": "image/jpeg",
+            "duration": 0,
+            "width": 704,
+            "height": 480
+          },
+          "id": "614b1980-3a39-11ea-a18a-a7c9d91d51da",
+          "created_on": "2020-01-18T21:27:50.808Z",
+          "user_id": 490,
+          "project_id": 14513,
+          "charge": "0.00150",
+          "config_version": 1,
+          "config_tag": "logo_auto_accept_only_max_objects_no_mod"
+        },
+        "output": [
+          {
+            "time": 0,
+            "bounding_poly": []
+          }
+        ]
+      }
+    }
+  ],
+  "from_cache": false
+}
